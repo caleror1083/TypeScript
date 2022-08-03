@@ -1,0 +1,2 @@
+C:\Users\Rob C\source\repos\TypeScript\Node.js Console Applications\Practice\Practice\obj\Debug\Practice.njsproj.AssemblyReference.cache
+C:\Users\Rob C\source\repos\TypeScript\Node.js Console Applications\Practice\Practice\obj\Debug\Practice.njsproj.CoreCompileInputs.cache
