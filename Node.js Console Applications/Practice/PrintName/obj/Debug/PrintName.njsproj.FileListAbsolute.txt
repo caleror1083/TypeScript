@@ -1,0 +1,3 @@
+C:\Users\Rob C\source\repos\TypeScript\Node.js Console Applications\Practice\PrintName\obj\Debug\PrintName.njsproj.AssemblyReference.cache
+C:\Users\Rob C\source\repos\TypeScript\Node.js Console Applications\Practice\PrintName\obj\Debug\PrintName.njsproj.CoreCompileInputs.cache
+C:\Users\Rob C\source\repos\TypeScript\Node.js Console Applications\Practice\PrintName\bin\Microsoft.NodejsTools.WebRole.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Practice", "Practice\Practice.njsproj", "{67A91AF5-4923-48BD-817C-9FE9DABD0319}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PrintName", "PrintName\PrintName.njsproj", "{C83E54B5-9320-4312-B765-09A6B952A1DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{67A91AF5-4923-48BD-817C-9FE9DABD0319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A91AF5-4923-48BD-817C-9FE9DABD0319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A91AF5-4923-48BD-817C-9FE9DABD0319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C83E54B5-9320-4312-B765-09A6B952A1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83E54B5-9320-4312-B765-09A6B952A1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83E54B5-9320-4312-B765-09A6B952A1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83E54B5-9320-4312-B765-09A6B952A1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
